@@ -40,7 +40,7 @@ $A ∪ B = B$ iff $A ∩ B = A$ iff $A ⊆ B$
 
 ## Cardinality
 
-**Definition:** The number of elements in a set, $|X| = \#(X) = card(X)$
+**Definition:** The number of elements in a set, $|X|$ = #$(X) = card(X)$
 
 # Formal Languages
 
