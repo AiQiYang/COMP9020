@@ -1,1 +1,1 @@
-+ [PostgreSQL Overview](#Lec16_Statistics.md)
++ [Lecture 16: Statistics](#./Lec16_Statistics.md)
