@@ -1,1 +1,1 @@
-+ [Lecture 16: Statistics](#./Lec16_Statistics.md)
++ [Lecture 16: Statistics](docs/Lec16_Statistics.md)
