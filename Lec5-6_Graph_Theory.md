@@ -19,13 +19,13 @@ Every edge (or arc) e ∈ E is an ordered pair of vertices, i.e., e = (x, y) ∈
 1. **Pictorially**
 2. **Adjacency matrix**
 
-![Adjacency Matrix]()
+![Adjacency Matrix](./image/lec5-6/Adjacency%20Matrix.png)
 
 1. **Incidence matrix**
    - Each row represents a vertex
    - Each column represents an edge
 
-![Incidence Matrix]()
+![Incidence Matrix](./image/lec5-6/Incidence%20matrix.png)
 
 ## Path
 
@@ -94,6 +94,7 @@ A cycle C = (v1, v2, ..., vn) is a cycle if removing any single edge leaves a pa
 
 - Vertices can be divided into **two disjoint sets**.
 - Each edge must connect a vertex from one set to a vertex from the other set.
+![Bipartite Graphs](./image/lec5-6/Bipartite%20Graphs.png)
 
 ## Special Graphs
 
