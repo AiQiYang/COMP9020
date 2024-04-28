@@ -5,5 +5,6 @@
 + [Lecture5-6: Graph Theory](/Lec5-6_Graph_Theory.md)
 + [Lecture7-8: Relation](/Lec7-8_Relation.md)
 + [Lecture9a: Funtions](/Lec9a_Functions.md)
-+ [Lecture10: recursive](/Lec10_Recursive.md)
++ [Lecture10: Recursive](/Lec10_Recursive.md)
++ [Lecture11: Induction](/Lec11_Induction.md)
 + [Lecture 16: Statistics](/Lec16_Statistics.md)
